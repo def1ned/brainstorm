@@ -1,17 +1,17 @@
 [
   {
     "id": "1",
-    "name": "Mac Mini M4"
+    "name": "Mac Mini M4",
     "type": "macbook"
   },
   {
     "id": "2",
-    "name": "MacBook Air M3"
+    "name": "MacBook Air M3",
     "type": "macbook"
   },
   {
     "id": "3",
-    "name": "MacBook Pro M4"
+    "name": "MacBook Pro M4",
     "type": "macbook"
   }
 ]
