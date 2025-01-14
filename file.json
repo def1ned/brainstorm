@@ -3,15 +3,45 @@
     "id": "1",
     "name": "Mac Mini M4",
     "type": "macbook"
-  },
+  }
   {
     "id": "2",
     "name": "MacBook Air M3",
     "type": "macbook"
-  },
+  }
   {
     "id": "3",
     "name": "MacBook Pro M4",
     "type": "macbook"
   }
+  {
+    "id": "4",
+    "name": "Mac Mini M4",
+    "type": "macbook"
+  }
+  {
+    "id": "5",
+    "name": "MacBook Air M3",
+    "type": "macbook"
+  }
+  {
+    "id": "6",
+    "name": "MacBook Pro M4",
+    "type": "macbook"
+  }
+  {
+    "id": "7",
+    "name": "Mac Mini M4",
+    "type": "macbook"
+  }
+  {
+    "id": "8",
+    "name": "MacBook Air M3",
+    "type": "macbook"
+  }
+  {
+    "id": "9",
+    "name": "MacBook Pro M4",
+    "type": "macbook"
+  },
 ]
