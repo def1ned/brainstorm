@@ -16,33 +16,33 @@
   },
   {
     "id": "4",
-    "name": "Mac Mini M4",
-    "type": "macbook"
+    "name": "iPhone 16 Pro Max",
+    "type": "iphone"
   },
   {
     "id": "5",
-    "name": "MacBook Air M3",
-    "type": "macbook"
+    "name": "iPhone 16",
+    "type": "iphone"
   },
   {
     "id": "6",
-    "name": "MacBook Pro M4",
-    "type": "macbook"
+    "name": "iPad Pro M4",
+    "type": "ipad"
   },
   {
     "id": "7",
-    "name": "Mac Mini M4",
-    "type": "macbook"
+    "name": "iPad Air M2",
+    "type": "ipad"
   },
   {
     "id": "8",
-    "name": "MacBook Air M3",
-    "type": "macbook"
+    "name": "iPad Mini 7",
+    "type": "ipad"
   },
   {
     "id": "9",
-    "name": "MacBook Pro M4",
-    "type": "macbook"
+    "name": "iPad 10",
+    "type": "ipad"
   },
   {
     "id": "10",
