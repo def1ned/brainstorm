@@ -7,7 +7,8 @@
   {
     "id": "2",
     "name": "MacBook Air M3",
-    "type": "macbook"
+    "type": "macbook",
+    "image-url": "macairm3.png"
   },
   {
     "id": "3",
