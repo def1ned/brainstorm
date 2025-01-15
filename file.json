@@ -5,6 +5,11 @@
     "type": "macbook"
   },
   {
+    "id": "14",
+    "name": "Mac Mini M2",
+    "type": "macbook"
+  },
+  {
     "id": "2",
     "name": "MacBook Air M3",
     "type": "macbook",
