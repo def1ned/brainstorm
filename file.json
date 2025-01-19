@@ -13,7 +13,7 @@
     "id": "2",
     "name": "MacBook Air M3",
     "type": "macbook",
-    "image-path": "images/macairm3.png"
+    "imagePath": "images/macairm3.png"
   },
   {
     "id": "3",
