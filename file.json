@@ -31,7 +31,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "display": "13.6-inch Liquid Retina",
-      "battery": "Up to 18 hours"
+      "battery": "14216mAh"
     }
   },
   {
@@ -43,7 +43,7 @@
       "ram": "32GB",
       "storage": "1TB SSD",
       "display": "14.2-inch Liquid Retina XDR",
-      "battery": "Up to 22 hours"
+      "battery": "18919mAh"
     }
   },
   {
@@ -55,7 +55,7 @@
       "storage": "256GB",
       "display": "6.7-inch Super Retina XDR",
       "camera": "48MP + 12MP + 12MP",
-      "battery": "4500mAh"
+      "battery": "4422mAh"
     }
   },
   {
@@ -67,7 +67,7 @@
       "storage": "128GB",
       "display": "6.1-inch Super Retina XDR",
       "camera": "48MP + 12MP",
-      "battery": "3500mAh"
+      "battery": "3349mAh"
     }
   },
   {
@@ -79,7 +79,7 @@
       "ram": "16GB",
       "storage": "512GB",
       "display": "12.9-inch Liquid Retina XDR",
-      "battery": "Up to 10 hours"
+      "battery": "11048mAh"
     }
   },
   {
@@ -91,7 +91,7 @@
       "ram": "8GB",
       "storage": "256GB",
       "display": "10.9-inch Liquid Retina",
-      "battery": "Up to 10 hours"
+      "battery": "7730mAh"
     }
   },
   {
@@ -102,7 +102,7 @@
       "processor": "A16 Bionic",
       "storage": "128GB",
       "display": "8.3-inch Liquid Retina",
-      "battery": "Up to 10 hours"
+      "battery": "5216mAh"
     }
   },
   {
@@ -113,7 +113,7 @@
       "processor": "A14 Bionic",
       "storage": "64GB",
       "display": "10.9-inch Liquid Retina",
-      "battery": "Up to 10 hours"
+      "battery": "7730mAh"
     }
   },
   {
@@ -136,7 +136,7 @@
       "ram": "16GB",
       "storage": "512GB SSD",
       "display": "13.6-inch Liquid Retina",
-      "battery": "Up to 18 hours"
+      "battery": "14216mAh"
     }
   },
   {
@@ -148,7 +148,7 @@
       "ram": "32GB",
       "storage": "1TB SSD",
       "display": "14.2-inch Liquid Retina XDR",
-      "battery": "Up to 22 hours"
+      "battery": "18919mAh"
     }
   }
 ]
